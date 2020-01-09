@@ -15,13 +15,13 @@ endmap
 
 map boxstation
 	default
-	#voteweight 1.5
+	voteweight 1.5
 	votable
 endmap
 
 map metastation
 	minplayers 25
-	#voteweight 0.5
+	voteweight 0.5
 	votable
 endmap
 
